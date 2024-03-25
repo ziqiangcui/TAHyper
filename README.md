@@ -1,7 +1,7 @@
 # TAHyper-SDM24
 Code for the SDM'2024 paper, [Treatment-Aware Hyperbolic Representation Learning for Causal Effect Estimation with Social Networks](https://arxiv.org/abs/2401.06557).
 
-The code is based on [network-deconfounder-wsdm20]https://github.com/rguo12/network-deconfounder-wsdm20 and [hgcn](https://github.com/HazyResearch/hgcn).
+The code is based on [network-deconfounder-wsdm20](https://github.com/rguo12/network-deconfounder-wsdm20) and [hgcn](https://github.com/HazyResearch/hgcn).
 
 
 ### Dependencies
